@@ -7,7 +7,7 @@ The database contains the following entities:
 **Products:** Represents items sold by the company.
 **Customers:** Contains customer details.
 **Employees:** Tracks employees who handle orders.
-**Sales Orders: **Logs customer purchases, including product details, quantities, order status, and the employees responsible.
+**Sales Orders:** Logs customer purchases, including product details, quantities, order status, and the employees responsible.
 
 **Key features include:**
 Simulating real-world sales data.
