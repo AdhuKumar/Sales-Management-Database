@@ -25,7 +25,7 @@ The database supports both day-to-day operations and advanced analytics with pre
 ------------------------------------------------------------------------
 
 Schema Overview
-Tables Created
+**Tables Created**
 1.	products
     Stores product details like ID, name, price, and release date.
 2.	customers
